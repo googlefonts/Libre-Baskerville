@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="f_t" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_t" format="2">
   <advance width="762"/>
   <outline>
     <contour>
@@ -29,8 +29,11 @@
       <point x="404" y="514" type="curve" smooth="yes"/>
       <point x="229" y="514" type="line"/>
       <point x="229" y="592" type="line" smooth="yes"/>
-      <point x="229" y="743"/>
-      <point x="266" y="782"/>
+      <point x="229" y="658"/>
+      <point x="236" y="703"/>
+      <point x="250" y="732" type="curve" smooth="yes"/>
+      <point x="267" y="770"/>
+      <point x="295" y="782"/>
       <point x="331" y="782" type="curve" smooth="yes"/>
       <point x="356" y="782"/>
       <point x="370" y="776"/>

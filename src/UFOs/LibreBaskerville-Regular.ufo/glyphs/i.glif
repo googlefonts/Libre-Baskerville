@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="i" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
   <advance width="341"/>
   <unicode hex="0069"/>
+  <anchor x="179" y="0" name="bottom"/>
+  <anchor x="176" y="651" name="top"/>
   <outline>
-    <contour>
-      <point x="179" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="176" y="651" type="move" name="top"/>
-    </contour>
     <contour>
       <point x="228" y="540" type="line"/>
       <point x="32" y="502" type="line"/>

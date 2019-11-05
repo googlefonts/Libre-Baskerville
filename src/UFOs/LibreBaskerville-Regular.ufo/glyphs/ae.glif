@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ae" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae" format="2">
   <advance width="852"/>
   <unicode hex="00E6"/>
+  <anchor x="431" y="651" name="top"/>
   <outline>
-    <contour>
-      <point x="431" y="651" type="move" name="top"/>
-    </contour>
     <contour>
       <point x="771" y="121" type="line"/>
       <point x="722" y="67"/>

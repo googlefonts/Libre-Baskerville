@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotlessj" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
   <advance width="304"/>
   <unicode hex="0237"/>
+  <anchor x="162" y="651" name="top"/>
   <outline>
-    <contour>
-      <point x="162" y="651" type="move" name="top"/>
-    </contour>
     <contour>
       <point x="213" y="540" type="line"/>
       <point x="17" y="502" type="line"/>
