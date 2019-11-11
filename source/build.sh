@@ -1,18 +1,64 @@
 #!/bin/bash
 
 
-printf "Build fonts…\n"
+echo "Generating Static fonts"
+mkdir -p ../fonts
+fontmake -m LibreBaskerville.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m LibreBaskerville.designspace -i -o otf --output-dir ../fonts/otf/
+
+echo "Generating VFs"
+mkdir -p ../fonts/vf
+fontmake -m LibreBaskerville.designspace -o variable --output-path ../fonts/vf/LibreBaskerville[wght].ttf
 
 
 
-if ! fontmake -m "Users/richardlipton/Desktop/Git fonts/Libre-Baskerville/Libre Baskerville.designspace" -o variable --no-production-names --output-dir './Libre-Baskerville'
-    then
-        printf "Unable to build var font.  Build canceled." 1>&2
-        exit 1
-fi
+rm -rf master_ufo/ instance_ufo/ instance_ufos/
+
+
+echo "Post processing"
+ttfs=$(ls ../fonts/ttf/*.ttf)
+for ttf in $ttfs
+do
+	gftools fix-dsig -f $ttf;
+	ttfautohint $ttf "$ttf.fix";
+	mv "$ttf.fix" $ttf;
+done
+
+vfs=$(ls ../fonts/vf/*\[wght\].ttf)
+
+echo "Post processing VFs"
+for vf in $vfs
+do
+	gftools fix-dsig -f $vf;
+	ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
+	mv "$vf.fix" $vf;
+done
 
 
 
+echo "Fixing VF Meta"
+gftools fix-vf-meta $vfs;
 
+echo "Dropping MVAR"
+for vf in $vfs
+do
+	mv "$vf.fix" $vf;
+	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
+	rtrip=$(basename -s .ttf $vf)
+	new_file=../fonts/vf/$rtrip.ttx;
+	rm $vf;
+	ttx $new_file
+	rm $new_file
+done
 
-printf "\nBuild complete"
+echo "Fixing Hinting"
+for vf in $vfs
+do
+	gftools fix-hinting $vf;
+	mv "$vf.fix" $vf;
+done
+for ttf in $ttfs
+do
+	gftools fix-hinting $ttf;
+	mv "$ttf.fix" $ttf;
+done
