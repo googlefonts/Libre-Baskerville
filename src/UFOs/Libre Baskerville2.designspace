@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="400" maximum="700" minimum="400" name="weight" tag="wght" />
+    </axes>
+    <sources>
+        <source familyname="Libre Baskerville" filename="src/UFOs/LibreBaskerville-Regular.ufo" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="400" />
+            </location>
+        </source>
+        <source familyname="Libre Baskerville" filename="src/UFOs/LibreBaskerville-Bold.ufo" stylename="Bold">
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="700" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Libre Baskerville" filename="instances/LibreBaskerville-wght550.00.ufo" postscriptfontname="LibreBaskerville-wght550.00" stylename="wght550.00">
+            <location>
+                <dimension name="weight" xvalue="550" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
+</designspace>
