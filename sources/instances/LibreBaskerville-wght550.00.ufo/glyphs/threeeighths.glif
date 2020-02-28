@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeeighths" format="2">
+  <advance width="695.0"/>
+  <unicode hex="215C"/>
+  <outline>
+    <contour>
+      <point x="663.0" y="770.0" type="line"/>
+      <point x="603.5" y="770.0" type="line"/>
+      <point x="37.0" y="0.0" type="line"/>
+      <point x="105.5" y="0.0" type="line"/>
+    </contour>
+    <component base="eightinferior" xOffset="357.5"/>
+    <component base="threesuperior" xOffset="51.5"/>
+  </outline>
+</glyph>

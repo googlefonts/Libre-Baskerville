@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.cap" format="2">
+  <advance width="391.0"/>
+  <anchor x="196.5" y="830.0" name="_topcap"/>
+  <outline>
+    <contour>
+      <point x="55.5" y="837.0" type="line"/>
+      <point x="65.0" y="867.0"/>
+      <point x="76.0" y="877.0"/>
+      <point x="100.0" y="877.0" type="curve" smooth="yes"/>
+      <point x="124.5" y="877.0"/>
+      <point x="155.5" y="866.5"/>
+      <point x="184.0" y="853.5" type="curve" smooth="yes"/>
+      <point x="216.5" y="838.5"/>
+      <point x="241.5" y="829.0"/>
+      <point x="267.0" y="829.0" type="curve" smooth="yes"/>
+      <point x="325.5" y="829.0"/>
+      <point x="367.0577392805711" y="888.904174963998"/>
+      <point x="375.5" y="957.0" type="curve"/>
+      <point x="336.5" y="957.0" type="line"/>
+      <point x="326.5" y="926.0"/>
+      <point x="313.5" y="915.0"/>
+      <point x="288.5" y="915.0" type="curve" smooth="yes"/>
+      <point x="268.0" y="915.0"/>
+      <point x="246.0" y="923.0"/>
+      <point x="213.5" y="936.0" type="curve" smooth="yes"/>
+      <point x="175.0" y="952.0"/>
+      <point x="152.0" y="961.0"/>
+      <point x="128.0" y="961.0" type="curve" smooth="yes"/>
+      <point x="73.5" y="961.0"/>
+      <point x="27.5" y="910.0"/>
+      <point x="15.5" y="837.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
