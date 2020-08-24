@@ -19,14 +19,14 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Libre Baskerville" filename="instances/LibreBaskerville-Regular.ufo" postscriptfontname="LibreBaskerville-Regular" stylename="Regular">
+        <instance familyname="Libre Baskerville" filename="instances_ufo/LibreBaskerville-Regular.ufo" postscriptfontname="LibreBaskerville-Regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="400" />
             </location>
             <kerning />
             <info />
         </instance>
-        <instance familyname="Libre Baskerville" filename="instances/LibreBaskerville-Bold.ufo" postscriptfontname="LibreBaskerville-Bold" stylename="Bold">
+        <instance familyname="Libre Baskerville" filename="instances_ufo/LibreBaskerville-Bold.ufo" postscriptfontname="LibreBaskerville-Bold" stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="700" />
             </location>
