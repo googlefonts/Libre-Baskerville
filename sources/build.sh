@@ -39,7 +39,6 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	mv "$vf.fix" $vf;
 done
 
 echo "Fixing VF Meta"
@@ -61,7 +60,6 @@ echo "Fixing Non-Hinting"
 for vf in $vfs
 do
 	gftools fix-nonhinting $vf $vf;
-	mv "$vf.fix" $vf;
 done
 echo "Fixing Hinting"
 for ttf in $ttfs
