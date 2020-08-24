@@ -13,11 +13,13 @@ rm -rf ../fonts
 echo "Generating Static fonts"
 mkdir -p ../fonts
 fontmake -m LibreBaskerville.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m LibreBaskerville.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m LibreBaskerville-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m LibreBaskerville.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 mkdir -p ../fonts/variable
 fontmake -m LibreBaskerville.designspace -o variable --output-path ../fonts/variable/LibreBaskerville[wght].ttf
+# fontmake -m LibreBaskerville-Italic.designspace -o variable --output-path ../fonts/variable/LibreBaskerville-Italic[wght].ttf
 
 
 
