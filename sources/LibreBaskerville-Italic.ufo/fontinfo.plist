@@ -133,7 +133,7 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>970</integer>
+    <integer>1019</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>270</integer>
     <key>postscriptBlueFuzz</key>
