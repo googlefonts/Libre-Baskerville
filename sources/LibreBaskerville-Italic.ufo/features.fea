@@ -5,10 +5,16 @@ languagesystem latn CRT;
 languagesystem latn TAT;
 languagesystem latn TRK;
 languagesystem latn KAZ;
+languagesystem latn CAT;
 
 lookup idotaccent {
 	sub i by idotaccent;
 } idotaccent;
+
+lookup periodcentered {
+	sub L' periodcentered' L by Ldot;
+	sub l' periodcentered' l by ldot;
+} periodcentered;
 
 feature locl {
 	script latn;
@@ -22,6 +28,8 @@ feature locl {
 	lookup idotaccent;
 	language KAZ;
 	lookup idotaccent;
+	language CAT;
+	lookup periodcentered;
 } locl;
 
 feature liga {
