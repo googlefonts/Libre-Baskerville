@@ -1,3 +1,29 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn KAZ;
+
+lookup idotaccent {
+	sub i by idotaccent;
+} idotaccent;
+
+feature locl {
+	script latn;
+	language AZE;
+	lookup idotaccent;
+	language CRT;
+	lookup idotaccent;
+	language TAT;
+	lookup idotaccent;
+	language TRK;
+	lookup idotaccent;
+	language KAZ;
+	lookup idotaccent;
+} locl;
+
 feature liga {
 	sub f f i by f_f_i;
 	sub f f l by f_f_l;
