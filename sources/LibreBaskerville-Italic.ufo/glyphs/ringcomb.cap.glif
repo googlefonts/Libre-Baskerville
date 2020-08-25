@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.cap" format="2">
+  <advance width="170"/>
+  <outline>
+    <component base="ring.cap"/>
+  </outline>
+</glyph>

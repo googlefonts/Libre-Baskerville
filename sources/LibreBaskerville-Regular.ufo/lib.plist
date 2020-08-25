@@ -1095,6 +1095,17 @@
       <string>commaaccentcomb</string>
       <string>cedillacomb</string>
       <string>ogonekcomb</string>
+      <string>gravecomb.cap</string>
+      <string>dieresiscomb.cap</string>
+      <string>macroncomb.cap</string>
+      <string>acutecomb.cap</string>
+      <string>circumflexcomb.cap</string>
+      <string>caroncomb.cap</string>
+      <string>brevecomb.cap</string>
+      <string>dotaccentcomb.cap</string>
+      <string>ringcomb.cap</string>
+      <string>tildecomb.cap</string>
+      <string>hungarumlautcomb.cap</string>
     </array>
   </dict>
 </plist>
