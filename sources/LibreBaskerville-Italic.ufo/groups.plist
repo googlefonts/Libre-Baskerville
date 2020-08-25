@@ -293,6 +293,7 @@
       <string>ibreve</string>
       <string>icircumflex</string>
       <string>idieresis</string>
+      <string>idotaccent</string>
       <string>idotbelow</string>
       <string>igrave</string>
       <string>imacron</string>
@@ -753,6 +754,7 @@
       <string>ibreve</string>
       <string>icircumflex</string>
       <string>idieresis</string>
+      <string>idotaccent</string>
       <string>idotbelow</string>
       <string>igrave</string>
       <string>ij</string>

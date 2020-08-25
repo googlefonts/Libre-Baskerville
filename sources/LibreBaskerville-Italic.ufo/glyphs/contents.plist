@@ -610,6 +610,8 @@
     <string>icircumflex.glif</string>
     <key>idieresis</key>
     <string>idieresis.glif</string>
+    <key>idotaccent</key>
+    <string>idotaccent.glif</string>
     <key>idotbelow</key>
     <string>idotbelow.glif</string>
     <key>igrave</key>
