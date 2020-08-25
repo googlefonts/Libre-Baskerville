@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caron.cap" format="2">
   <advance width="368"/>
-  <anchor x="184" y="830" name="_topcap"/>
   <outline>
     <contour>
       <point x="224" y="851" type="line"/>

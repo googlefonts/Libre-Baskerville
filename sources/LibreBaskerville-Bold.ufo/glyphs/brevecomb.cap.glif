@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb.cap" format="2">
   <advance width="332"/>
+  <anchor x="166" y="830" name="_topcap"/>
   <outline>
     <component base="breve.cap"/>
   </outline>

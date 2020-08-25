@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macron.cap" format="2">
   <advance width="326"/>
-  <anchor x="163" y="830" name="_topcap"/>
   <outline>
     <contour>
       <point x="305" y="865" type="line"/>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb.cap" format="2">
   <advance width="521"/>
+  <anchor x="216" y="830" name="_topcap"/>
   <outline>
     <component base="hungarumlaut.cap"/>
   </outline>

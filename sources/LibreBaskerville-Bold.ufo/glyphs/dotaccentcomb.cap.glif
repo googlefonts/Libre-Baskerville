@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb.cap" format="2">
   <advance width="173"/>
+  <anchor x="86" y="830" name="_topcap"/>
   <outline>
     <component base="dotaccent.cap"/>
   </outline>

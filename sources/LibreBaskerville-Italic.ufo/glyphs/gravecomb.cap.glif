@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.cap" format="2">
   <advance width="295"/>
+  <anchor x="169" y="830" name="_topcap"/>
   <outline>
     <component base="grave.cap"/>
   </outline>

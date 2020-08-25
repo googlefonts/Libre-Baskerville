@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccent.cap" format="2">
   <advance width="165"/>
-  <anchor x="82" y="830" name="_topcap"/>
   <outline>
     <contour>
       <point x="30" y="904" type="curve" smooth="yes"/>

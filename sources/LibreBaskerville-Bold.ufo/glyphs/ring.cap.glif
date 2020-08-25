@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ring.cap" format="2">
   <advance width="178"/>
-  <anchor x="89" y="830" name="_topcap"/>
   <outline>
     <contour>
       <point x="21" y="895" type="curve" smooth="yes"/>
