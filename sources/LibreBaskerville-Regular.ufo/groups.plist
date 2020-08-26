@@ -122,6 +122,8 @@
       <string>Oslash</string>
       <string>Oslashacute</string>
       <string>Otilde</string>
+      <string>Q</string>
+      <string>Schwa</string>
     </array>
     <key>public.kern1.KERN_R_1ST</key>
     <array>
@@ -294,6 +296,7 @@
       <string>ibreve</string>
       <string>icircumflex</string>
       <string>idieresis</string>
+      <string>idotaccent</string>
       <string>idotbelow</string>
       <string>igrave</string>
       <string>imacron</string>
@@ -753,6 +756,7 @@
       <string>ibreve</string>
       <string>icircumflex</string>
       <string>idieresis</string>
+      <string>idotaccent</string>
       <string>idotbelow</string>
       <string>igrave</string>
       <string>ij</string>

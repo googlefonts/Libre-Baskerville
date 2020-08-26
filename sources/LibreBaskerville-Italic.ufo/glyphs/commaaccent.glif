@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="commaaccent" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccent" format="2">
   <advance width="162"/>
   <unicode hex="F6C3"/>
   <outline>
-    <contour>
-      <point x="79" y="-10" type="move" name="_bottom"/>
-    </contour>
     <contour>
       <point x="47" y="-260" type="line"/>
       <point x="116" y="-223"/>

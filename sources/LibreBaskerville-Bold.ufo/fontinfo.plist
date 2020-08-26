@@ -7,8 +7,7 @@
     <key>capHeight</key>
     <integer>770</integer>
     <key>copyright</key>
-    <string>Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), 
-Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.com), with Reserved Font Name Libre Baskerville.</string>
+    <string>Copyright 2020 The Libr Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)</string>
     <key>descender</key>
     <integer>-250</integer>
     <key>familyName</key>
@@ -51,8 +50,6 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
     <string>Bold</string>
     <key>openTypeNameUniqueID</key>
     <string>PabloImpallari,RodrigoFuenzalida: Libre Baskerville Bold: 2012</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.000</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -77,6 +74,10 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
       <integer>0</integer>
       <integer>0</integer>
       <integer>0</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
     </array>
     <key>openTypeOS2StrikeoutPosition</key>
     <integer>250</integer>
@@ -132,7 +133,7 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>970</integer>
+    <integer>1019</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>270</integer>
     <key>postscriptBlueFuzz</key>
@@ -198,7 +199,7 @@ Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello®rfuenzalida.c
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>

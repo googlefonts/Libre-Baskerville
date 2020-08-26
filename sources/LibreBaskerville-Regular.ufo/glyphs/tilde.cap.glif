@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tilde.cap" format="2">
   <advance width="381"/>
-  <anchor x="191" y="830" name="_topcap"/>
   <outline>
     <contour>
       <point x="54" y="846" type="line"/>

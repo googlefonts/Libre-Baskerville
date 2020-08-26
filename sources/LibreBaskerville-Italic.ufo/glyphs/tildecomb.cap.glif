@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.cap" format="2">
+  <advance width="381"/>
+  <anchor x="191" y="830" name="_topcap"/>
+  <outline>
+    <component base="tilde.cap"/>
+  </outline>
+</glyph>

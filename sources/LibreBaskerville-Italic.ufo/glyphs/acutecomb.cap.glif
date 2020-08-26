@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.cap" format="2">
+  <advance width="295"/>
+  <anchor x="120" y="830" name="_topcap"/>
+  <outline>
+    <component base="acute.cap"/>
+  </outline>
+</glyph>

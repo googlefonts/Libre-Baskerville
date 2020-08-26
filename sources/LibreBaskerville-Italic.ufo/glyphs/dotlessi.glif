@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotlessi" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
   <advance width="344"/>
   <unicode hex="0131"/>
+  <anchor x="107" y="0" name="bottom"/>
+  <anchor x="264" y="651" name="top"/>
   <outline>
-    <contour>
-      <point x="107" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="264" y="651" type="move" name="top"/>
-    </contour>
     <contour>
       <point x="86" y="202" type="line" smooth="yes"/>
       <point x="62" y="134"/>

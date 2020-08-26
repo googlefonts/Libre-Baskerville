@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breve.cap" format="2">
   <advance width="316"/>
-  <anchor x="158" y="830" name="_topcap"/>
   <outline>
     <contour>
       <point x="259" y="960" type="line"/>

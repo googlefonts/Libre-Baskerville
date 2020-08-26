@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <advance width="275"/>
+  <unicode hex="0301"/>
+  <anchor x="110" y="651" name="_top"/>
+  <outline>
+    <component base="acute"/>
+  </outline>
+</glyph>

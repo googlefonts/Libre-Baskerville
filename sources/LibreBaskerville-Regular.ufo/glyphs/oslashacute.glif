@@ -53,6 +53,6 @@
       <point x="483" y="358"/>
       <point x="492" y="316"/>
     </contour>
-    <component base="acute" xOffset="253"/>
+    <component base="acutecomb" xOffset="253"/>
   </outline>
 </glyph>

@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="grave.cap" format="2">
   <advance width="317"/>
-  <anchor x="177" y="830" name="_topcap"/>
   <outline>
     <contour>
       <point x="297" y="830" type="line"/>

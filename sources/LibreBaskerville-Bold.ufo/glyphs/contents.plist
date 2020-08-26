@@ -300,6 +300,10 @@
     <string>acute.glif</string>
     <key>acute.cap</key>
     <string>acute.cap.glif</string>
+    <key>acutecomb</key>
+    <string>acutecomb.glif</string>
+    <key>acutecomb.cap</key>
+    <string>acutecomb.cap.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
     <key>ae</key>
@@ -348,6 +352,10 @@
     <string>breve.glif</string>
     <key>breve.cap</key>
     <string>breve.cap.glif</string>
+    <key>brevecomb</key>
+    <string>brevecomb.glif</string>
+    <key>brevecomb.cap</key>
+    <string>brevecomb.cap.glif</string>
     <key>brokenbar</key>
     <string>brokenbar.glif</string>
     <key>bullet</key>
@@ -364,6 +372,10 @@
     <string>caron.alt.glif</string>
     <key>caron.cap</key>
     <string>caron.cap.glif</string>
+    <key>caroncomb</key>
+    <string>caroncomb.glif</string>
+    <key>caroncomb.cap</key>
+    <string>caroncomb.cap.glif</string>
     <key>ccaron</key>
     <string>ccaron.glif</string>
     <key>ccedilla</key>
@@ -374,18 +386,26 @@
     <string>cdotaccent.glif</string>
     <key>cedilla</key>
     <string>cedilla.glif</string>
+    <key>cedillacomb</key>
+    <string>cedillacomb.glif</string>
     <key>cent</key>
     <string>cent.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
     <key>circumflex.cap</key>
     <string>circumflex.cap.glif</string>
+    <key>circumflexcomb</key>
+    <string>circumflexcomb.glif</string>
+    <key>circumflexcomb.cap</key>
+    <string>circumflexcomb.cap.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
     <key>commaaccent</key>
     <string>commaaccent.glif</string>
+    <key>commaaccentcomb</key>
+    <string>commaaccentcomb.glif</string>
     <key>copyright</key>
     <string>copyright.glif</string>
     <key>currency</key>
@@ -408,6 +428,10 @@
     <string>dieresis.glif</string>
     <key>dieresis.cap</key>
     <string>dieresis.cap.glif</string>
+    <key>dieresiscomb</key>
+    <string>dieresiscomb.glif</string>
+    <key>dieresiscomb.cap</key>
+    <string>dieresiscomb.cap.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
     <key>dollar</key>
@@ -416,6 +440,10 @@
     <string>dotaccent.glif</string>
     <key>dotaccent.cap</key>
     <string>dotaccent.cap.glif</string>
+    <key>dotaccentcomb</key>
+    <string>dotaccentcomb.glif</string>
+    <key>dotaccentcomb.cap</key>
+    <string>dotaccentcomb.cap.glif</string>
     <key>dotbelow</key>
     <string>dotbelow.glif</string>
     <key>dotlessi</key>
@@ -534,6 +562,10 @@
     <string>grave.glif</string>
     <key>grave.cap</key>
     <string>grave.cap.glif</string>
+    <key>gravecomb</key>
+    <string>gravecomb.glif</string>
+    <key>gravecomb.cap</key>
+    <string>gravecomb.cap.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
     <key>guillemotleft</key>
@@ -556,6 +588,10 @@
     <string>hungarumlaut.glif</string>
     <key>hungarumlaut.cap</key>
     <string>hungarumlaut.cap.glif</string>
+    <key>hungarumlautcomb</key>
+    <string>hungarumlautcomb.glif</string>
+    <key>hungarumlautcomb.cap</key>
+    <string>hungarumlautcomb.cap.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
     <key>i</key>
@@ -568,6 +604,8 @@
     <string>icircumflex.glif</string>
     <key>idieresis</key>
     <string>idieresis.glif</string>
+    <key>idotaccent</key>
+    <string>idotaccent.glif</string>
     <key>idotbelow</key>
     <string>idotbelow.glif</string>
     <key>igrave</key>
@@ -612,6 +650,10 @@
     <string>macron.glif</string>
     <key>macron.cap</key>
     <string>macron.cap.glif</string>
+    <key>macroncomb</key>
+    <string>macroncomb.glif</string>
+    <key>macroncomb.cap</key>
+    <string>macroncomb.cap.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
     <key>mu</key>
@@ -656,6 +698,8 @@
     <string>oe.glif</string>
     <key>ogonek</key>
     <string>ogonek.glif</string>
+    <key>ogonekcomb</key>
+    <string>ogonekcomb.glif</string>
     <key>ograve</key>
     <string>ograve.glif</string>
     <key>ohungarumlaut</key>
@@ -746,6 +790,10 @@
     <string>ring.glif</string>
     <key>ring.cap</key>
     <string>ring.cap.glif</string>
+    <key>ringcomb</key>
+    <string>ringcomb.glif</string>
+    <key>ringcomb.cap</key>
+    <string>ringcomb.cap.glif</string>
     <key>s</key>
     <string>s.glif</string>
     <key>s_p</key>
@@ -812,6 +860,10 @@
     <string>tilde.glif</string>
     <key>tilde.cap</key>
     <string>tilde.cap.glif</string>
+    <key>tildecomb</key>
+    <string>tildecomb.glif</string>
+    <key>tildecomb.cap</key>
+    <string>tildecomb.cap.glif</string>
     <key>trademark</key>
     <string>trademark.glif</string>
     <key>two</key>
