@@ -48,8 +48,6 @@
     <string>Italic</string>
     <key>openTypeNameUniqueID</key>
     <string>PabloImpallari,RodrigoFuenzalida: Libre Baskerville Italic: 2012</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.000</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>

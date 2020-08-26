@@ -50,8 +50,6 @@
     <string>Bold</string>
     <key>openTypeNameUniqueID</key>
     <string>PabloImpallari,RodrigoFuenzalida: Libre Baskerville Bold: 2012</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.000</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
