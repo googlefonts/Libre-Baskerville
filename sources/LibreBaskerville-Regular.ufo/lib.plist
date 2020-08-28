@@ -17,6 +17,8 @@
     </array>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>6031022160</string>
     <key>com.typesupply.MetricsMachine4.groupColors</key>
     <dict>
       <key>@MMK_L_KERN_A</key>
@@ -1119,6 +1121,7 @@
       <string>ringcomb.cap</string>
       <string>tildecomb.cap</string>
       <string>hungarumlautcomb.cap</string>
+      <string>idotaccent</string>
     </array>
   </dict>
 </plist>

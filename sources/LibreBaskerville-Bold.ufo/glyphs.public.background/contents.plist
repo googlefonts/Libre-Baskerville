@@ -4,8 +4,12 @@
   <dict>
     <key>A</key>
     <string>A_.glif</string>
+    <key>Aringacute</key>
+    <string>A_ringacute.glif</string>
     <key>apostrophe</key>
     <string>apostrophe.glif</string>
+    <key>aringacute</key>
+    <string>aringacute.glif</string>
     <key>d</key>
     <string>d.glif</string>
     <key>p</key>
